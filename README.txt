@@ -1,0 +1,1 @@
+An experimental design to implement a Gaussian Mixture Model on IRIS Data using Expectation Maximization
